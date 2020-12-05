@@ -1,0 +1,16 @@
+Equipo Rojo
+12.5
+15
+85
+Equipo Verde
+48.568
+16.54
+100
+Equipo Amarillo
+85.12
+14.68
+90
+Equipo azul
+75.4
+86.4
+75
